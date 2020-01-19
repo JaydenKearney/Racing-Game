@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/JCU/2019/SP1/CP3408 - Game Engine and Simulation/Assessment/Game Files/CP3408-Assignment/CP3408-Assignment/CP3408_Assignment/Assets/Scenes/Level_01.unity
+  isLoaded: 1
+  isActive: 1
